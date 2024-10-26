@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(171, 99, 189, 0.921);
+    text-align-last: left;
+    font-style: oblique;
+    font-size: 20px;
+    /* padding-left: 10cm;
+    padding-top: 10cm; */
+
+    margin-left: 100px;
+
+    span {
+        position: relative;
+        bottom: 500px;
+        left: 800px;
+    };
+
+    i {
+        font-size: xx-large;
+    };
+}
